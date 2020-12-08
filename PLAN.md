@@ -1,1 +1,4 @@
-Voici mon plan de cours
+Voici mon plan de cours.
+A) intro
+B) Suite
+C) Encore
